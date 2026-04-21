@@ -1,5 +1,5 @@
 import { CheckCircle2 } from "lucide-react";
-import Button from "../ui/button";
+import Button from "../ui/Button";
 
 export default function Hero() {
   const benefits = [
