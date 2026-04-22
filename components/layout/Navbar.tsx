@@ -23,7 +23,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20 items-center">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-2xl font-extrabold text-blue-600 tracking-tight">
-              Accredian
+              accredian
             </Link>
           </div>
           <div className="hidden md:flex items-center space-x-10">
