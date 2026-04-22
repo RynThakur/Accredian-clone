@@ -3,6 +3,7 @@ import Hero from "@/components/sections/Hero";
 import Stats from "@/components/sections/Stats";
 import Clients from "@/components/sections/Clients";
 import AccredianEdge from "@/components/sections/AccredianEdge";
+import CatFramework from "@/components/sections/CatFramework";
 
 export default function Home(){
   return(
@@ -13,6 +14,7 @@ export default function Home(){
         <Stats />
         <Clients />
         <AccredianEdge />
+        <CatFramework />
       </main>
     </div>
   );
